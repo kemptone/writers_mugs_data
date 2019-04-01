@@ -1,0 +1,1 @@
+{"version":2,"name":"writers_mugs_data","builds":[{"src":"**/*.js","use":"@now/node"}]}
